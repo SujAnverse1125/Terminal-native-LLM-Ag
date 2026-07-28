@@ -58,3 +58,9 @@ python agent.py
 
 ## 🛡️ Security Note
 The `.env` file and `venv` directory are included in the `.gitignore` to prevent sensitive API keys from being accidentally uploaded to GitHub.
+
+## 🔮 Future Plans / Roadmap
+- **Local LLM Support**: Integration with tools like Ollama to run models locally for completely free, offline usage.
+- **Advanced RAG Integration**: Adding Retrieval-Augmented Generation to allow the agent to understand and search through entire codebases.
+- **Multi-Agent Collaboration**: Allowing multiple specialized agents to work together on complex terminal workflows.
+- **Cross-Platform Enhancements**: Further optimizations for seamless execution across Windows, macOS, and Linux environments.
